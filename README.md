@@ -1,5 +1,5 @@
 # RobotMoves
-In this project it's reqired to create a circuit of 6 servo motors to determine the robot moves
+In this project it's reqired to create a circuit of 6 servo motors to control the robot's moves
 
 # Components:
 
